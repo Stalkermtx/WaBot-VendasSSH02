@@ -1,19 +1,19 @@
 # WaBot-VendasSSH
-🔥Feito por:
-https://t.me/MegahBox
+🔥Editado por:
+https://t.me/StartNetOfc
 
 👥Canal do telegram:
-https://t.me/cursov2ray
+https://t.me/masterpayssh
 
 🤖Bot de teste:
-https://wa.me/559191288339
+https://wa.me/5565984739398
 
 Testado nos ubuntus 18 e 20
 ## • 🛠️Instalação
 ### • Parte 1
 Use o comando abaixo para instalar o bot e suas dependências⤵️
 ```
-sudo apt install curl -y; bash <(curl https://raw.githubusercontent.com/endblack/WaBot-VendasSSH/main/install.sh)
+sudo apt install curl -y; bash <(curl https://raw.githubusercontent.com/Stalkermtx/WaBot-VendasSSH/main/install.sh)
 ```
 ### • Parte 2
 Use o comando abaixo para mudar a versão do nodejs⤵️
