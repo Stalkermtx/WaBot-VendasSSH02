@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo
-echo "Leia o Qrcode abaixo e logo depois digite o comando onbot"
+echo "Leia o Qrcode Abaixo e Logo Depois Digite o Comando onbot"
 echo
 echo "CTRL+C Para sair"
 echo
