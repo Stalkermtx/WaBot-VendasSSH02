@@ -6,7 +6,7 @@ https://t.me/StartNetOfc
 https://t.me/masterpayssh
 
 🤖Bot de teste:
-https://wa.me/5565984739398
+https://wa.me/55659814-3061
 
 Testado nos ubuntus 18 e 20
 ## • 🛠️Instalação
